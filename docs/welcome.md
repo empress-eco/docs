@@ -1,5 +1,5 @@
 ---
-title: Welcome to Celo
+title: Welcome to Empress
 description: Celo's mission is to build a financial system that creates the conditions for prosperity—for everyone.
 id: welcome
 slug: /
