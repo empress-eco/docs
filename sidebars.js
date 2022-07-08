@@ -5,6 +5,7 @@ const sidebars = {
       type: "category",
       label: "SDGs",
       items: [
+        { type: "doc", label: "Overview", id: "sdg/overview" },
         { type: "doc", label: "No Poverty", id: "sdg/no-poverty" },
         { type: "doc", label: "Zero Hunger", id: "sdg/zero-hunger" },
         {
