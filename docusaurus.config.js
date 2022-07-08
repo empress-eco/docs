@@ -116,76 +116,76 @@ module.exports = {
         {
           title: "Docs",
           items: [
-            {
-              label: "Home",
-              to: "/",
-            },
-            {
-              label: "Blog",
-              to: "/blog",
-            },
+            // {
+            //   label: "Home",
+            //   to: "/",
+            // },
+            // {
+            //   label: "Blog",
+            //   to: "/blog",
+            // },
             // {
             //   href: "https://celo.crowdin.com/celo-docs",
             //   label: "Help translate",
             // },
-            {
-              label: "Docs GitHub",
-              href: "https://github.com/celo-org/docs",
-            },
+            // {
+            //   label: "Docs GitHub",
+            //   href: "https://github.com/celo-org/docs",
+            // },
           ],
         },
         {
           title: "Community",
           items: [
-            {
-              href: "/community/contributing",
-              label: "Contributors",
-            },
-            {
-              label: "Forum",
-              href: "https://forum.celo.org/",
-            },
-            {
-              label: "Discord",
-              href: "https://chat.celo.org",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/CeloOrg",
-            },
-            {
-              label: "Reddit",
-              href: "https://www.reddit.com/r/celo/",
-            },
-            {
-              label: "Celo GitHub",
-              href: "https://github.com/celo-org",
-            },
+            // {
+            //   href: "/community/contributing",
+            //   label: "Contributors",
+            // },
+            // {
+            //   label: "Forum",
+            //   href: "https://forum.celo.org/",
+            // },
+            // {
+            //   label: "Discord",
+            //   href: "https://chat.celo.org",
+            // },
+            // {
+            //   label: "Twitter",
+            //   href: "https://twitter.com/CeloOrg",
+            // },
+            // {
+            //   label: "Reddit",
+            //   href: "https://www.reddit.com/r/celo/",
+            // },
+            // {
+            //   label: "Celo GitHub",
+            //   href: "https://github.com/celo-org",
+            // },
           ],
         },
         {
           title: "Ecosystem",
           items: [
-            {
-              label: "Celo Foundation",
-              href: "https://celo.org",
-            },
-            {
-              label: "Medium Blog",
-              href: "https://medium.com/celoorg",
-            },
-            {
-              label: "The Celo",
-              href: "https://thecelo.com/",
-            },
-            {
-              label: "Celo Hub",
-              href: "https://celohub.org/",
-            },
-            {
-              label: "Careers",
-              href: "https://celo.org/jobs",
-            },
+            // {
+            //   label: "Celo Foundation",
+            //   href: "https://celo.org",
+            // },
+            // {
+            //   label: "Medium Blog",
+            //   href: "https://medium.com/celoorg",
+            // },
+            // {
+            //   label: "The Celo",
+            //   href: "https://thecelo.com/",
+            // },
+            // {
+            //   label: "Celo Hub",
+            //   href: "https://celohub.org/",
+            // },
+            // {
+            //   label: "Careers",
+            //   href: "https://celo.org/jobs",
+            // },
           ],
         },
       ],

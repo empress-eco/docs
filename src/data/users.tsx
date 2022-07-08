@@ -91,7 +91,7 @@ export const Tags: { [type in TagType]: Tag } = {
   popular: {
     label: translate({ message: "Popular" }),
     description: translate({
-      message: "Popular Celo dApps for you to check out!",
+      message: "Popular organizations for you to check out.",
       id: "showcase.tag.popular.description",
     }),
     color: "#e9669e",

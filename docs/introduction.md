@@ -14,7 +14,7 @@ Empress mission is to build a financial system that creates the conditions for p
 
 ## Welcome to Empress!
 
-Empress is an open community focused on connecting research, innovation, and technology help solve global problems like poverty, inequality, climate change, and more to help meet the [SDGs (Sustainable Development Goals)](https://sdgs.un.org/). It aims to help coordinate between researchers, developers, and policymakers to build a better world.
+Empress is an open community focused on connecting research, innovation, and technology help solve global problems like poverty, inequality, climate change, and more. It aims to help connect between researchers, developers, and policymakers and others to build a better world.
 
 :::tip Empress ❤️ Feedback
 
@@ -22,7 +22,9 @@ If you have any ideas to improve the docs please make an [issue](https://github.
 
 :::
 
-## Our Goals
+## Our Goal
+
+We're currently building a community around the [Sustainable Development Goals (SDGs)](https://sdgs.un.org/). As our community grows, we'll explore new solutions together and help coordinate ways to build real world solutions that help meet these goals.
 
 - [Sustainable Development Goals](/sdg/overview)
 
