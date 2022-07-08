@@ -18,7 +18,7 @@ Empress is an open community focused on connecting research, innovation, and tec
 
 :::tip Empress ❤️ Feedback
 
-If you have any ideas to improve the docs please make an [issue](https://github.com/celo-org/docs/issues/new), discuss in the [forum](https://forum.celo.org/), or [become a contibutor](/community/guidelines).
+If you have any ideas to improve the docs please make an [issue](www.google.com), discuss in the [forum](https://forum.celo.org/), or [become a contibutor](www.google.com).
 
 :::
 
@@ -32,19 +32,19 @@ We're currently building a community around the [Sustainable Development Goals (
 
 Get up and running as a Celo holder, validator, developer, using tools in the Celo ecosystem.
 
-- [Empress Research](developer-guide/overview)
-- [Empress Blog](validator-guide/overview)
+- [Empress Research](www.google.com)
+- [Empress Blog](www.google.com)
 
 ## Join the Community
 
 Connect with the community to stay up to date on the latest news, events, and updates.
 
-- [@empress_eco](https://twitter.com/CeloDevs)
-- [Discord](https://twitter.com/CeloOrg)
-- [GitHub](https://github.com/celo-org/celo-monorepo)
+- [@empress_eco](www.google.com)
+- [Discord](www.google.com)
+- [GitHub](www.google.com)
 
 :::tip Get Support 💬
 
-Need help with anything related to Empress? Find Celo on [Discord](https://chat.celo.org/), [Forum](https://forum.celo.org/), or [Telegram](https://t.me/celoplatform).
+Need help with anything related to Empress? Find Celo on [Discord](www.google.com), [Forum](www.google.com), or [Telegram](www.google.com).
 
 :::

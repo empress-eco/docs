@@ -1,9 +1,10 @@
 const sidebars = {
   docs: [
     { type: "doc", label: "Introduction", id: "introduction" },
+    { type: "doc", label: "Paris Climate Agreement", id: "pca/overview" },
     {
       type: "category",
-      label: "SDGs",
+      label: "Sustainable Development",
       items: [
         { type: "doc", label: "Overview", id: "sdg/overview" },
         {
@@ -91,6 +92,7 @@ const sidebars = {
         },
       ],
     },
+    { type: "doc", label: "Glossary", id: "glossary" },
   ],
 };
 module.exports = sidebars;
