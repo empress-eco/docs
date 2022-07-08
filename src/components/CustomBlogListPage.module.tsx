@@ -35,12 +35,12 @@
          tag: 'blog_posts_list',
        }}
        sidebar={sidebar}>
-         <h1>Celo Development Tutorials</h1>
+         <h1>Empress News Feed</h1>
          <p>Welcome to our curated list of community tutorials.</p>
         {/* <p><a href="/blog/tags"> Filter posts by tag</a></p> */}
         <a
         className="button button--primary"
-        href="/community/guidelines"
+        href=""
         // target="_blank"
         rel="noreferrer">
         <Translate id="showcase.header.button">

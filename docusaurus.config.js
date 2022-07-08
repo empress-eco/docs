@@ -6,15 +6,15 @@ const { docs, developers } = require("./sidebars");
 const DefaultLocale = "en";
 
 module.exports = {
-  title: "Celo Documentation",
-  tagline: "Documentation for the Celo platform.",
-  url: "https://docs.celo.org",
+  title: "Empress Documentation",
+  tagline: "Documentation for Empress.",
+  url: "https://docs.empress.eco",
   baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/color-favicon.png",
-  organizationName: "celo-org", // Usually your GitHub org/user name.
+  organizationName: "empress-eco", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   //  i18n: {
   //    defaultLocale: "en",
@@ -274,7 +274,7 @@ module.exports = {
     announcementBar: {
       id: "support_us",
       content:
-        '🌱 If you like Celo, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/celo-org/celo-monorepo">GitHub</a> and follow <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/CeloDevs">@CeloDevs</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/CeloOrg">@CeloOrg </a> 🌱',
+        '🌱 If you like Empress, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/celo-org/celo-monorepo">GitHub</a> and follow <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/CeloDevs">@CeloDevs</a> and <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/CeloOrg">@CeloOrg </a> 🌱',
       backgroundColor: "#18191A",
       textColor: "#ffffff",
       isCloseable: false,
@@ -290,146 +290,39 @@ module.exports = {
       defaultMode: "dark",
     },
     navbar: {
-      title: "Celo Docs",
+      title: "Empress Docs",
       logo: {
-        alt: "Celo Logo",
+        alt: "Empress Logo",
         src: "img/color-logo.png",
       },
       items: [
-        // {
-        //     "to": "welcome",
-        //     "label": "Basics",
-        //     "position": "left"
-        // },
-        {
-          to: "developer-guide/overview",
-          label: "Developers",
-          position: "left",
-        },
-        {
-          to: "validator-guide/overview",
-          label: "Validators",
-          position: "left",
-        },
-        {
-          to: "developer-guide/integrations",
-          label: "Integrations",
-          position: "left",
-        },
-        // {
-        //   to: "/community/contributing",
-        //   label: "Stake",
-        //   position: "left",
-        // },
-        // {
-        //   to: "/blog",
-        //   label: "Learn",
-        //   position: "left",
-        // },
         { to: "showcase", label: "Showcase", position: "left" },
         {
           to: "/blog",
           label: "Tutorials",
           position: "left",
         },
-        // {
-        //   type: "dropdown",
-        //   position: "left",
-        //   label: "Tutorials",
-        //   items: [
-        //     {
-        //       label: "Code Tutorials",
-        //       to: "blog",
-        //     },
-        //     {
-        //       label: "Developer Blog",
-        //       to: "https://medium.com/celodevelopers/",
-        //     },
-        //     {
-        //       label: "EVM Basics",
-        //       to: "https://ethereum.org/en/developers/docs/",
-        //     },
-        //     {
-        //       label: "Celo Blog",
-        //       to: "https://medium.com/celoorg",
-        //     },
-        //     {
-        //       label: "Figment",
-        //       to: "https://learn.figment.io/protocols/celo",
-        //     },
-        //     {
-        //       label: "Dacade",
-        //       to: "https://dacade.org/communities/celo",
-        //     },
-        //   ],
-        // },
-        // {
-        //   type: "localeDropdown",
-        //   position: "right",
-        //   dropdownItemsAfter: [
-        //     {
-        //       to: "https://celo.crowdin.com/",
-        //       label: "Help us translate",
-        //     },
-        //   ],
-        // },
         {
           type: "dropdown",
           position: "right",
           label: "Support",
           items: [
             {
-              to: "https://forum.celo.org/",
-              label: "View the Forum",
+              to: "https://github.com/empress-eco/docs/discussions/1",
+              label: "Join the Discussion",
             },
             {
-              to: "https://github.com/celo-org/docs/issues/new",
+              to: "https://discord.gg/pJgadysD",
+              label: "Chat on Discord",
+            },
+            {
+              to: "https://github.com/empress-eco/docs/issues/new",
               label: "Create an Issue",
             },
           ],
         },
         {
-          type: "dropdown",
-          position: "right",
-          label: "APIs & SDKs",
-          items: [
-            { to: "command-line-interface/introduction", label: "CLI" },
-            {
-              to: "https://celo-sdk-docs.readthedocs.io/en/latest/",
-              label: "SDK",
-            },
-            {
-              to: "https://github.com/heymateag/celoiossdk",
-              label: "iOS",
-            },
-            {
-              to: "https://github.com/blaize-tech/celo-sdk-java",
-              label: "Java",
-            },
-            { to: "https://github.com/celo-org/react-celo", label: "React" },
-            { to: "https://docs.flutter.dev/", label: "Flutter" },
-            {
-              to: "https://github.com/blaize-tech/celo-sdk-py/",
-              label: "Python",
-            },
-            {
-              to:
-                "https://github.com/celo-org/celo-monorepo/tree/master/packages/sdk/contractkit",
-              label: "JavaScript",
-            },
-            {
-              to:
-                "https://github.com/celo-org/celo-composer/tree/main/packages/react-native-app",
-              label: "React Native",
-            },
-            {
-              label: "Celo Composer",
-              to: "https://github.com/celo-org/celo-composer#celo-composer",
-            },
-          ],
-        },
-        {
-          href: "https://github.com/celo-org",
+          href: "https://github.com/empress-eco/docs",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",

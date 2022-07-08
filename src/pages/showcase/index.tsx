@@ -33,7 +33,7 @@ import ShowcaseTooltip from './_components/ShowcaseTooltip';
 
 import styles from './styles.module.css';
 
-const TITLE = translate({message: 'Celo Ecosystem Showcase'});
+const TITLE = translate({message: 'Empress Ecosystem Showcase'});
 const DESCRIPTION = translate({
   message: 'List of decentralized applications and tools in the Celo ecosystem.',
 });
@@ -129,7 +129,7 @@ function ShowcaseHeader() {
         target="_blank"
         rel="noreferrer">
         <Translate id="showcase.header.button">
-          🙏 Please add your site
+          🙏 Please add your project
         </Translate>
       </a>
     </section>
