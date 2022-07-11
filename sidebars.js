@@ -78,6 +78,7 @@ const sidebars = {
           label: "17. Partnerships for the Goals",
           id: "sdg/peace-justice-and-strong-institutions",
         },
+        { type: "doc", label: "Whalestwo", id: "sdg/Whalestwo" },
       ],
     },
   ],
