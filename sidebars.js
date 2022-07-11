@@ -90,6 +90,7 @@ const sidebars = {
             },
           ],
         },
+        { type: "doc", label: "Whalestwo", id: "sdg/Whalestwo" },
       ],
     },
     { type: "doc", label: "Glossary", id: "glossary" },
